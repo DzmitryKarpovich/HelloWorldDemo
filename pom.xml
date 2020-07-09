@@ -1,0 +1,7 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.epam.demo</groupId>
+  <artifactId>HelloWorldDemo</artifactId>
+  <version>1</version>
+</project>
